@@ -1,31 +1,31 @@
-# Disney Clone
-Welcome to the "Disney Clone"! This project showcases my skills in HTML, CSS, and JavaScript through a dynamic and engaging web project inspired by Disney.
+# Netflix Clone
 
-# How to View the Project
-Clone the Repository
-git clone https://github.com/yourusername/disney-clone.git
+Welcome to the "Netflix Clone"! This project showcases my skills in HTML, CSS, and JavaScript through a dynamic and engaging web project inspired by Netflix.
+
+# Clone the Repository
+git clone https://github.com/yourusername/netflix-clone.git
 
 # Open the Project
-- Open your preferred code editor (e.g., Visual Studio Code, Sublime Text).
-- Navigate to the cloned repository folder.
-- Open the folder to start working on the project.
+1. Open your preferred code editor (e.g., Visual Studio Code, Sublime Text).
+2. Navigate to the cloned repository folder.
+3. Open the folder to start working on the project.
 
 # Build the Project
-- Open the index.html file in your web browser to view the project.
-- Make sure to include all CSS and JavaScript files linked in the index.html file.
+1. Open the `index.html` file in your web browser to view the project.
+2. Make sure to include all CSS and JavaScript files linked in the `index.html` file.
 
 # Run the Application
-- Open index.html in a web browser.
-- The project will start running, and the GUI will be displayed.
+1. Open `index.html` in a web browser.
+2. The project will start running, and the GUI will be displayed.
 
 # Development Tools
-- HTML5: Markup language for structuring the project.
-- CSS3: Styling language for designing a sleek and responsive interface.
-- JavaScript: Programming language for implementing the project logic and interactivity.
-- Git: Version control system to manage the project.
+- **HTML5**: Markup language for structuring the project.
+- **CSS3**: Styling language for designing a sleek and responsive interface.
+- **JavaScript**: Programming language for implementing the project logic and interactivity.
+- **Git**: Version control system to manage the project.
 
-# Features
-- Dynamic and interactive Disney-themed content.
+#  Features
+- Dynamic and interactive Netflix-themed content.
 - Responsive design for optimal viewing on different devices.
 - Engaging animations and sounds for enhanced user experience.
 
